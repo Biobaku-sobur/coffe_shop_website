@@ -1,0 +1,542 @@
+body{
+    width: 100%;
+    height: auto;
+}
+.div0{
+    /* border: 2px solid brown; */
+    /* border-radius: 10px; */
+    background-color: rgba(165, 42, 42, 0.349);
+    display: flex;
+    opacity: 1;
+    height: 55px;
+}
+ul{
+    margin-left: 300px;
+}
+ul li{
+    float: left;
+    margin-left: 85px;
+    list-style-type: none;
+}
+ .Logoipsum{
+    margin-left: -360px;
+    font-size: 25px;
+    font-weight: bolder;
+    /* text-shadow: -2px 3px 4px black; */
+    color: black;
+}
+ul li a{
+    text-decoration: none;
+    color: brown;
+    font-weight: bold;
+}
+.callnow{
+    height: 25px;
+    background-color: brown;
+    color: white;
+    width: 100px;
+    padding:  10px 30px ;
+    border: 2px solid brown;
+    border-radius: 5px;
+    text-align: center;
+    list-style-type: none;
+    margin-left: 90px; 
+    margin-top: -30px;
+    padding-top: -50px;
+    box-shadow: 0 0 4px #000;   
+}
+.div1 p{
+    font-size: 33px;
+    margin-left: 70px;
+    color: brown;
+    opacity: 0.8;
+}
+.div1 h6{
+    margin-left: 70px;
+    margin-top: -30px;
+    color: brown;
+    opacity: 0.6;
+    font-size: 15px;
+}
+.div1 img{
+    border-radius: 30px;
+    margin-left: 500px;
+    margin-top: -230px;
+    width: 550px;
+    height: 340px;
+    box-shadow: 0px 0px 7px .1px black;
+}
+.div1{
+    margin-left: 110px;
+}
+.div1 .buycoffee{
+    background-color: brown;
+    height: 25px;
+    width: 100px;
+    border: 2px solid brown;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 5px;
+    list-style-type: none;
+    margin-left: 65px;
+    margin-top: -30px;
+    box-shadow: 0 0 4px #000;
+}
+.buycoffee a{
+    color: white;
+    text-decoration: none;
+}
+.div1 .reservation{
+    background-color: brown;
+    height: 25px;
+    width: 100px;
+    border: 2px solid brown;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 5px;
+    list-style-type: none;
+    margin-left: 220px;
+    margin-top: -30px;
+    box-shadow: 0 0 4px #000;
+}
+.reservation a{
+    color: white;
+    text-decoration: none;
+}
+.div2{
+    text-align: center;
+    color: brown;
+}
+.div2 h6{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.div2 p{
+    margin-top: -50px;
+    opacity: 0.8;
+}
+.div2b{
+    margin-left: 240px;
+}
+.div3{
+    border: 1px solid brown;
+    width: 250px;
+    text-align: center;
+    height: 280px;
+    border-radius: 20px;
+    color: brown;
+    float: left;
+    margin: 30px;
+}
+.div3 h6{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.div3 p{
+    margin-left: 20px;
+    margin-top: -0px;
+}
+.div3 li{
+    border: 2px solid brown;
+    width: 150px;
+    height: 23px;
+    list-style-type: none;
+    border-radius: 5px;
+    padding-top: 2px;
+    margin-left: 45px;
+    background: transparent;
+    box-shadow: 0px 0px 3px .1px black;
+}
+.div3 li a{
+    text-decoration: none;
+    color: brown;
+}
+.div4{
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    color: brown;
+}
+.div4 p{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: -960px;
+}
+.div5 img{
+    border-radius: 20px;
+    width: 550px;
+    height: 340px;
+    margin-left: 100px;
+    box-shadow: 0px 0px 7px .1px black;
+}
+.div5 p{
+    float: right;
+    margin-right: 300px;
+    color: brown;
+}
+.div5 li{
+   border: 2px solid brown;
+   width: 120px;
+   height: 50px;
+   border-radius: 10px;
+   padding-top: 35px;
+   list-style-type: none;
+   text-align: center;
+   font-size: 25px;
+   font-weight: bold;
+   color: brown;
+   float: left;
+   margin-left: 20px;
+}
+.div5 ul{
+    margin-left: 630px;
+    margin-top: -300px;
+}
+.div5 .p_a{
+   text-decoration: none;
+   border: 2px solid brown;
+   font-size: 18px;
+   height: 25px;
+   width: 120px;
+   padding-top: 2px;
+   text-align: center;
+   border-radius: 10px;
+   background-color: brown;
+   margin-right: 600px;
+   box-shadow: 0 0 4px #000;
+}
+.div5 .p_a a{
+    text-decoration: none;
+    color: white;
+}
+.div5 .p_b{
+    text-decoration: none;
+    border: 2px solid brown;
+    font-size: 18px;
+    height: 25px;
+    width: 120px;
+    padding-top: 2px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-right: 390px;
+    float: right;
+    margin-top: -48px;
+    box-shadow: 0 0 2px #000;
+ }
+ .div5 .p_b a{
+    text-decoration: none;
+    color: brown;
+}
+.div6{
+    text-align: center;
+}
+.div6 h4{
+    color: brown;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.div6 p{
+    color: brown;
+    /* font-weight: bolder; */
+    /* opacity: 0.8; */
+    margin-top: -25px;
+}
+.div7{
+   height: 400px;
+   width: 300px;
+   border: 2px solid white;
+   margin-left: 105px;
+   color: brown;
+   float: left;
+}
+.div7 img{
+    width: 350px;
+    height: 310px;
+    border-radius: 20px;
+}
+.div7 .p2{
+    font-size: 22px;
+    margin-top: -3px;
+    margin-left: 25px;
+}
+.div7 .p3{
+    margin-top: -13px;
+    margin-left: 10px;
+}
+.div7 .p4{
+    text-decoration: none;
+    border: 2px solid brown;
+    font-size: 18px;
+    height: 30px;
+    width: 100px;
+    padding-top: 2px;
+    border-radius: 10px;
+    margin-left: 10px;
+    box-shadow: 0 0 3px black;
+    text-align: center;
+}
+.div7 .p4 a{
+    text-decoration: none;
+    color: brown;
+}
+.H3{
+   margin-right: 10px;
+   text-align: center;
+   font-size: 25px;
+   color: brown;
+}
+.div8{
+    width: 350px;
+    height: 655px;
+    border: 2px solid brown;
+    text-align: center;
+    margin-left: 80px;
+    float: left;
+    border-radius: 10px;
+}
+.div8 h3{
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 50px;
+}
+.div8 h4{
+    margin-top: -20px;
+    color: red;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.div8 .p5{
+    font-size: 35px;
+    font-weight: bolder;
+    color: brown;
+    text-align: left;
+    margin-left: 45px;
+}
+.div8 .p6{
+    height: 30px;
+    width: 100px;
+    border: 2px solid brown;
+    margin-top: -90px;
+    margin-left: 190px;
+    padding-top: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 2px black;
+}
+.div9 h3{
+    margin-top: 600px;
+    text-align: center;
+    font-size: 25px;
+    color: brown;
+}
+.div10{
+    height: 400px;
+    width: 200px;
+    border: 2px solid white;
+    margin-left: 100px;
+    color: brown;
+    float: left;
+}
+.div10 img{
+    width: 270px;
+    height: 200px;
+    border-radius: 10px;
+    border: 2px solid rgba(165, 42, 42, 0.747);
+}
+.div10 .p2{
+   font-size: 22px;
+   margin-top: -3px;
+   margin-left: 10px;
+}
+.div10 .p3{
+    margin-top: -13px;
+    margin-left: 10px;
+ }
+ .div10 .p4{
+    text-decoration: none;
+    border: 2px solid brown;
+    font-size: 18px;
+    height: 25px;
+    width: 100px;
+    padding-top: 2px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 10px;
+ }
+ .div10 .p4 a{
+    text-decoration: none;
+    color: brown;
+ }
+
+ .div13{
+    margin-top: 450px;
+    text-align: center;
+}
+.divu{
+    margin-left: 50px;
+}
+.div14{
+    float: left;
+    border: 2px solid white;
+    height: 400px;
+    width: 200px;
+    margin-left: 90px;
+}
+.div14 img{
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.div15{
+    float: left;
+    border: 2px solid white;
+    height: 400px;
+    width: 200px;
+    margin-left: 90px; 
+    margin-top: 10px;
+}
+
+.div15 img{
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+/* what if we didnt have to specify the height n width before changing the height of the pic */
+.div16{
+    float: left;
+    border: 2px solid white; 
+    width: 200px;
+    margin-left: 90px; 
+    margin-top: -180px;
+}
+
+.div16 img{
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.div14 #pic1{
+    height: 400px;
+}
+
+
+.div15 #pic2, #pic2b{
+    height:400px
+}
+
+.div15 #pic2, #pic2a, #pic2b{
+    margin-top: -200px;
+}
+
+.div16 #pic3{
+    height: 400px;
+    margin-top: -200px;
+}
+
+.div17{
+    margin-top:900px;
+    text-align: center;
+}
+
+.div18{
+    border: 2px solid brown;
+    background-color: brown;
+    height: 250px;
+    width: 1000px;
+    padding: 30px;
+    margin-left:180px;
+    color: white;
+    border-radius: 20px;
+}
+
+.div18 h5{
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: cursive;
+}
+
+.div18 p{
+    margin-left: 5px;
+    font-family: cursive;
+}
+
+.div18 p a{
+    text-decoration: none;
+    color: white;
+}
+
+.div18 #p2{
+    border: 2px solid yellow;
+    padding: 15px;
+    width: 80px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: -20px;
+
+}
+.div19{
+    margin-top: 70px;
+    border: 2px solid white;
+    text-align: center;
+    width: 170px;
+    height: 200px;
+    float: left;
+    margin-left: 40px;
+    color: brown;
+}
+
+.div19 h2{
+    font-size: 25px;
+}
+
+.div19 #p1{
+    margin-top: 35px;
+}
+
+.div19 p{
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.div20{
+    margin-left: 170px;
+}
+
+.div21{
+    margin-top: 500px;
+    margin-left: 90px;
+    color: brown;
+}
+
+.div22{
+    margin-left: 150px;
+}
+
+.div22 p{
+    float: left;
+    text-align: center;
+}
+
+.div22 h4{
+    float: left;
+    margin-left: 30px;
+    writing-mode: vertical-lr;
+    color: brown;
+}
+
+.div23{
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.div23 img{
+    width: 30px;
+    height: 30px
+    }
+iframe{
+    height: 670px;
+    width: 1390px;
+}
